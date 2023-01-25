@@ -13,4 +13,6 @@ From this dataset, we created summary matrices that represented the district res
   7. Scores by School Type
 
 With our analysis complete we concluded the following as example of our assessment:
-
+  A) As a whole, Charter schools yield higher passing rates than District schools while spending less per student.
+  B) As a whole, schools with smaller group sizes (<2000) yield higher passing rates while spending less per student.
+  C) As a whole, schools spending less per student yeild higher passing rates.
